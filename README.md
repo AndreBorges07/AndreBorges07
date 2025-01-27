@@ -8,6 +8,7 @@
 </div>
 
 ###
+# Experiência em:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
@@ -28,6 +29,7 @@
 </div>
 
 ###
+# Onde me encontrar: 
 
 <div align="left">
   <a href="http://www.linkedin.com/in/andreborges07" target="_blank">
